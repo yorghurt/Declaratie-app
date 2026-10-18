@@ -2,7 +2,7 @@
 
 Maak een foto van een bon. De app leest bedrag en datum uit, zoekt in je werkagenda het project (4 letters + 4 cijfers, bijv. `ABCD1234`) en zet de declaratie met de foto als bijlage klaar in Gmail.
 
-**App:** https://jorglbl.github.io/Declaratie-app/. Open de link in Safari op je iPhone → deelknop → **Zet op beginscherm**.
+**App:** https://yorghurt.github.io/Declaratie-app/. Open de link in Safari op je iPhone → deelknop → **Zet op beginscherm**.
 
 ## Gebruik
 
@@ -27,7 +27,7 @@ Een klein script in je werkaccount zet de mails klaar in Gmail, met je werkadres
    Klik daarna op **Implementeren** en kopieer de URL van de web-app.
 6. Open die URL in je browser. Je ziet je **koppeling**. Stuur die naar je iPhone, bijvoorbeeld via Notities, en deel hem met niemand anders.
 7. In de app: **Instellingen → Google-werkaccount** → plak de koppeling → **Test koppeling**. Kies bij **Werkagenda** voor **Google (werk)**.
-8. Op je computer: open https://jorglbl.github.io/Declaratie-app/ en plak dezelfde koppeling bij **Instellingen → Google-werkaccount**. Je bonnen verschijnen vanzelf. Vul daar ook je naam en het adres van de administratie in.
+8. Op je computer: open https://yorghurt.github.io/Declaratie-app/ en plak dezelfde koppeling bij **Instellingen → Google-werkaccount**. Je bonnen verschijnen vanzelf. Vul daar ook je naam en het adres van de administratie in.
 
 **Blijft "Uitvoering gestart" geel staan?** Dan wacht Google op je toestemming. Zoek het venster **Autorisatie vereist**: het kan achter je browser staan of als pop-up geblokkeerd zijn. Kies daar **Geavanceerd → Ga naar … (onveilig) → Toestaan**. Er staat "onveilig" omdat het je eigen script is.
 
